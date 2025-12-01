@@ -6,6 +6,7 @@
   ## Running the code
 
   Run `npm i` to install the dependencies.
+  make sure react is downloaded (npm install react)
 
   Run `npm run dev` to start the development server.
   
